@@ -112,6 +112,11 @@ Job queue et Workers
 atom ./step-4/
 ```
 
+# Morale
+
+- Single Responsability Principle
+- Tâches asynchrones
+
 # The End
 
 Ils travaillèrent heureux et eurent beaucoup… moins de bugs
