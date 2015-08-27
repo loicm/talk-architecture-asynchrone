@@ -2,7 +2,8 @@
 
 # Je suis
 
-- développeur senior freelance depuis 8 ans (principalement PHP)
+- développeur senior
+- freelance depuis 8 ans avec [Kayuko](http://kayuko.com) (principalement PHP)
 - co-fondateur et président des conférences [Sud Web](http://sudweb.fr)
 - co-fondateur éditeur [Le train de 13h37](http://letrainde13h37.fr)
 - co-organisateur du meetup [Web en Vert](http://webenvert.fr)
