@@ -26,3 +26,5 @@ file_put_contents(
         file_get_contents($template)
     )
 );
+
+unlink($talk);
