@@ -3,7 +3,7 @@
 # Je suis
 
 - développeur senior
-- freelance depuis 8 ans avec [Kayuko](http://kayuko.com) (principalement PHP)
+- co-fondateur de l'agence Web [Kayuko](http://kayuko.com) (principalement PHP)
 - co-fondateur et président des conférences [Sud Web](http://sudweb.fr)
 - co-fondateur éditeur [Le train de 13h37](http://letrainde13h37.fr)
 - co-organisateur du meetup [Web en Vert](http://webenvert.fr)
@@ -11,15 +11,16 @@
 # Me contacter
 
 - email : loic@mathaud.fr
+- http://loic.mathaud.fr
 - twitter : @loicmathaud
-- IRC (freenode) : loicm
+- IRC (freenode) : loic_m
 
 # Petite Histoire
 
 Il était une fois une startup…
 
 - Problématiques variées et intéressantes
-- Poste de Lead Dev
+- Poste de Lead Dev (oui, j'étais tout seul au début ^^)
 
 # Comment se déroule-t'elle, en vrai ?
 
@@ -28,8 +29,8 @@ Il était une fois une startup…
 
 # Résultat
 
-- application monolitique
-- dette technique
+- Application monolitique
+- Dette technique
 
 # Mais…
 
@@ -37,25 +38,25 @@ Il était une fois une startup…
 
 # Et puis…
 
-d'autres développeurs se joignent à l'équipe
+D'autres développeurs se joignent à l'équipe
 
 # Les problèmes émergent 1/3
 
-Difficulté à comprendre l'ensemble de l'application
+Difficultés à comprendre l'ensemble de l'application
 
 # Les problèmes émergent 2/3
 
-Risque de péter quelque chose par effet de bord, sans le savoir (pas de tests)
+Risques de casser quelque chose par effet de bord, sans le savoir (pas de tests)
 
 # Les problèmes émergent 3/3
 
 Performances raisonnables mais pas exceptionnelles
 
-# Résultat
+# Résultats
 
-- fustration de l'équipe
-- ralentissement du rythme des releases
-- pertes de confiances
+- Fustrations dans les équipes
+- Ralentissement du rythme des releases
+- Pertes de confiances
 
 # Un exemple de (bad) code
 
@@ -73,9 +74,9 @@ atom ./step-2/
 
 # Continuons l'amélioration
 
-Gestion d'évènements
+Ajoutons une gestion d'évènements et découplons
 
-# Avantages au découplage
+# Avantages du découplage
 
 Plus facile :
 
@@ -105,7 +106,7 @@ Job queue et Workers
 - Déporter le code
 - Gérer la charge
 - Mixer les technologies
-- Ajout features facilité
+- Ajout de fonctionnalités facilité
 
 # Avec du code
 
@@ -121,3 +122,4 @@ atom ./step-4/
 # The End
 
 Ils travaillèrent heureux et eurent beaucoup… moins de bugs
+
